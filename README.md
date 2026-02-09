@@ -21,20 +21,8 @@ A comprehensive, production-ready project management platform for MSME (Micro, S
 | **Analytics** | Business trends, metrics | ✅ Live |
 | **BOQ Generator** | Bill of Quantities management | ✅ Live |
 
-## 🚀 Quick Deploy
+## Local Deployement
 
-### Option 1: Vercel (Recommended - 1 Click)
-1. Go to [v0.app](https://v0.app) and open this project
-2. Click the "Publish" button in top right
-3. Your app is live! Share the URL with your team
-
-### Option 2: GitHub + Vercel
-1. Push code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Deploy (automatic)
-
-### Option 3: Local Development
 ```bash
 npm install
 npm run dev
@@ -200,7 +188,5 @@ This dashboard is ready for production use in your organization.
 3. Share the URL with your team
 
 ---
-
-**Built with v0.app** ✨
 
 Questions? Check `DEPLOYMENT_GUIDE.md` for detailed instructions.

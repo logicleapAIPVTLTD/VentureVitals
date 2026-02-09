@@ -156,21 +156,6 @@
 
 ## Deployment Instructions
 
-### Quick Deploy to Vercel (Recommended)
-1. [x] Click "Publish" button in v0.app
-2. [x] Select Git repository (if applicable)
-3. [x] Click Deploy
-4. [x] Wait 1-2 minutes
-5. [x] App goes live automatically
-
-### Alternative: Manual Vercel Deploy
-1. [x] Create account on vercel.com
-2. [x] Click "Add New" → "Project"
-3. [x] Select GitHub repository
-4. [x] Configure project settings
-5. [x] Click "Deploy"
-6. [x] Get live URL
-
 ### Local Development
 1. [x] Clone repository
 2. [x] Run `npm install`

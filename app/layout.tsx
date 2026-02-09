@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'LogicLeap - Project Management Dashboard',
   description: 'AI-powered project management for MSME industries',
-  generator: 'v0.app',
+  generator: 'logicleap.in',
 }
 
 export default function RootLayout({
